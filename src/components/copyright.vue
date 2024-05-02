@@ -13,6 +13,7 @@ import * as pkg from "../../package.json";
 
 <template>
   <div class="copyright-box">
+    😅哎呀呀，空调不凉快？别急，可能是冷气正在做热身运动，等它跑完这一圈，就会飞奔到你身边来啦！再耐心等等，让冷气飞一会儿，它保证不会让你失望的！
     <div class="copyright-p-1">
       ©
       <a :href="pkg.repository.url" target="_blank" rel="noreferrer">AnZhiYu Air Conditioner</a>
